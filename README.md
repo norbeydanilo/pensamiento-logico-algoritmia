@@ -1,0 +1,1 @@
+# pensamiento-logico-algoritmia
