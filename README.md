@@ -5,7 +5,7 @@
 1. Sistemas numéricos: binario, decimal, octal, hexadecimal.
 2. ASCII: código ASCII estándar y extendido.
 3. Conversión entre sistemas numéricos: decimal-binario, binario-octal, decimal-octal, decimal-hexadecimal, binario-hexadecimal.
-4. :hammer::lock: Operaciones entre sistemas binarios: suma, resta, división.
+4. :hammer::lock: Operaciones entre sistemas numéricos: suma, resta, división.
 5. :hammer::lock: Lógica proposicional: proposiciones, tablas de verdad, algebra de Boole.
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
