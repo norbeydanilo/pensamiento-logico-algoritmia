@@ -12,6 +12,15 @@
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
+:pencil: Exercices 01 [See the xlsx file *EjerciciosTablasVerdad*]:
+
+~~~
+- [(p^~q) v ~r] ⇒ q
+- [(~r v q) ^ (r v ~p) ] <=> ~r
+- [ (∼ p ⇒ q ) ⇒ ∼ r ] v [ ∼ q ⇒r ]
+- (p ⇒ r ) v ∼(p ⇒ q)
+~~~
+
 :alien: **Author:** presentations were made by Norbey Danilo Muñoz Cañón.
 
 :smiley_cat: **Ack:** presentations contain notes from the web, books and content from authors who make their material and knowledge freely available on the web.
