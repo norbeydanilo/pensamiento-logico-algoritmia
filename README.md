@@ -17,8 +17,8 @@
 ~~~
 - [(p^~q) v ~r] ⇒ q
 - [(~r v q) ^ (r v ~p) ] <=> ~r
-- [ (∼ p ⇒ q ) ⇒ ∼ r ] v [ ∼ q ⇒r ]
-- (p ⇒ r ) v ∼(p ⇒ q)
+- [(∼ p ⇒ q ) ⇒ ∼ r] v [∼ q ⇒ r]
+- (p ⇒ r) v ∼(p ⇒ q)
 ~~~
 
 :alien: **Author:** presentations were made by Norbey Danilo Muñoz Cañón.
