@@ -7,8 +7,10 @@
 3. Conversión entre sistemas numéricos: decimal-binario, binario-octal, decimal-octal, decimal-hexadecimal, binario-hexadecimal.
 4. Operaciones entre sistemas numéricos: suma, resta, multiplicación, división.
 5. Lógica proposicional: proposiciones, tablas de verdad, algebra de Boole.
-6. :hammer::lock: Elementos para lógica de programación: operadores, variables, constantes, datos, tipos de datos.
-7. :hammer::lock: Algoritmos, pseudocódigo, diagramas de flujo.
+6. Elementos para lógica de programación: operadores, variables, constantes, datos, tipos de datos.
+7. Algoritmos, pseudocódigo, diagramas de flujo.
+8. :hammer::lock: Estructuras y ciclos: condicionales, for, while, do while.
+9. :hammer::lock: Funciones y procedimientos.
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
