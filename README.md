@@ -9,8 +9,11 @@
 5. Lógica proposicional: proposiciones, tablas de verdad, algebra de Boole.
 6. Elementos para lógica de programación: operadores, variables, constantes, datos, tipos de datos.
 7. Algoritmos, pseudocódigo, diagramas de flujo.
-8. :hammer::lock: Estructuras y ciclos: condicionales, for, while, do while.
-9. :hammer::lock: Funciones y procedimientos.
+8. Estructuras de control: secuencial, condicional, repetitiva.
+9. Funciones y procedimientos.
+9. Recursividad.
+10. Arreglos y matrices.
+11. Complejidad algorítmica: introducción y generalidades.
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
@@ -22,6 +25,12 @@
 - [(∼ p ⇒ q ) ⇒ ∼ r] v [∼ q ⇒ r]
 - (p ⇒ r) v ∼(p ⇒ q)
 ~~~
+
+:pencil: Exercices 02: follow this [repository](https://github.com/norbeydanilo/algoritmos-pseint)
+
+- Basics algorithms 
+- Control structures/control flow: sequential, conditional/decisions, loops
+- Procedures and functions
 
 :alien: **Author:** presentations were made by Norbey Danilo Muñoz Cañón.
 
