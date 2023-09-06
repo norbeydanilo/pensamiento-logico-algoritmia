@@ -11,9 +11,9 @@
 7. Algoritmos, pseudocódigo, diagramas de flujo.
 8. Estructuras de control: secuencial, condicional, repetitiva.
 9. Funciones y procedimientos.
-9.1 Recursividad.
-10. Arreglos y matrices.
-11. Complejidad algorítmica: introducción y generalidades.
+10. Recursividad.
+11. Arreglos y matrices.
+12. Complejidad algorítmica: introducción y generalidades.
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
