@@ -38,9 +38,9 @@
 
 :heavy_check_mark: Interesting links
 
-:link: [Books for data structure and algorithms](https://medium.com/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1)
++ :link: [Books for data structure and algorithms](https://medium.com/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1)
 
-:link: [Ebooks](https://github.com/rachitvk/ebooks)
++ :link: [Ebooks](https://github.com/rachitvk/ebooks)
 
 :blue_book: **Thanks!**
 
