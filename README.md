@@ -1,5 +1,7 @@
 # Pensamiento lógico y algoritmos
 
+## Topics :memo:
+
 :open_file_folder: This repository contains the topics on logical thinking and algorithms (Unit-02):
 
 1. Sistemas numéricos: binario, decimal, octal, hexadecimal.
@@ -17,7 +19,11 @@
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
-:pencil: Exercices 01 [See the xlsx file *EjerciciosTablasVerdad*]:
+## Exercices :notebook:
+
+### :pencil: Exercices 01 - Tablas de verdad
+
+See the xlsx file *EjerciciosTablasVerdad*. The following propositions are stated and solved:
 
 ~~~
 - [(p^~q) v ~r] ⇒ q
@@ -26,21 +32,25 @@
 - (p ⇒ r) v ∼(p ⇒ q)
 ~~~
 
-:pencil: Exercices 02: follow this [repository](https://github.com/norbeydanilo/algoritmos-pseint)
+### :computer: Exercices 02 - Coding!
 
-- Basics algorithms 
-- Control structures/control flow: sequential, conditional/decisions, loops
-- Procedures and functions
+Follow this [repository](https://github.com/norbeydanilo/algoritmos-pseint). Find exercices in PSeInt about:
+
+- Basics algorithms.
+- Control structures/control flow: sequential, conditional/decisions, loops.
+- Functions.
+
+## Interesting links :heavy_check_mark:
+
+- :link: [Books for data structure and algorithms](https://medium.com/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1)
+
+- :link: [Ebooks](https://github.com/rachitvk/ebooks)
+
+## About :octocat:
 
 :alien: **Author:** presentations were made by Norbey Danilo Muñoz Cañón.
 
 :smiley_cat: **Ack:** presentations contain notes from the web, books and content from authors who make their material and knowledge freely available on the web.
-
-:heavy_check_mark: Interesting links
-
-+ :link: [Books for data structure and algorithms](https://medium.com/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1)
-
-+ :link: [Ebooks](https://github.com/rachitvk/ebooks)
 
 :blue_book: **Thanks!**
 
