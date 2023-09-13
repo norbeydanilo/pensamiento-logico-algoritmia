@@ -46,6 +46,8 @@ Follow this [repository](https://github.com/norbeydanilo/algoritmos-pseint). Fin
 
 - :link: [Ebooks](https://github.com/rachitvk/ebooks)
 
+- :link: [books-lectures](https://github.com/norbeydanilo/pensamiento-logico-algoritmia/tree/main/books-lectures) See the folder in the repository to find some books and lectures of interest.
+
 ## About :octocat:
 
 :alien: **Author:** presentations were made by Norbey Danilo Muñoz Cañón.
