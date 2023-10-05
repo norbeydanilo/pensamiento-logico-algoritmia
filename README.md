@@ -19,9 +19,9 @@
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
-## Exercices :notebook:
+## Exercises :notebook:
 
-### :pencil: Exercices 01 - Tablas de verdad
+### :pencil: Exercises 01 - Tablas de verdad
 
 See the xlsx file *EjerciciosTablasVerdad*. The following propositions are stated and solved:
 
@@ -32,9 +32,9 @@ See the xlsx file *EjerciciosTablasVerdad*. The following propositions are state
 - (p ⇒ r) v ∼(p ⇒ q)
 ~~~
 
-### :computer: Exercices 02 - Coding!
+### :computer: Exercises 02 - Coding!
 
-Follow this [repository](https://github.com/norbeydanilo/algoritmos-pseint). Find exercices in PSeInt about:
+Follow this [repository](https://github.com/norbeydanilo/algoritmos-pseint). Find exercises in PSeInt about:
 
 - Basics algorithms.
 - Control structures/control flow: sequential, conditional/decisions, loops.
