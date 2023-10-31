@@ -26,10 +26,10 @@
 See the xlsx file *EjerciciosTablasVerdad*. The following propositions are stated and solved:
 
 ~~~
-- [(p^~q) v ~r] ⇒ q
-- [(~r v q) ^ (r v ~p) ] <=> ~r
-- [(∼ p ⇒ q ) ⇒ ∼ r] v [∼ q ⇒ r]
-- (p ⇒ r) v ∼(p ⇒ q)
+- [(p ∧ ¬q) ∨ ¬r] ⇒ q
+- [(¬r ∨ q) ∧ (r ∨ ¬p)] ⇔ ¬r
+- [(¬p ⇒ q) ⇒ ¬r] ∨ [¬q ⇒ r]
+- (p ⇒ r) ∨ ¬(p ⇒ q)
 ~~~
 
 ### :computer: Exercises 02 - Coding!
